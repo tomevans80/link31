@@ -1,2 +1,35 @@
-# link31
+# Link31
 M5 Stack Core 2 firmware to link an IC-705 to a keyboard, so PSK31, RTTY, and morse can be sent, received, and decoded on the go.
+
+This firmware for an M5 Core 2 allows you to connect to the IC-705 over wifi, and use digital modes via a bluetooth BLE keyboard.
+
+It can also be used as a decoder for morse if you don't want to send.
+
+Features:-
+* Wifi connectivity with the IC-705
+* BLE keyboard support
+* Send PSK31, RTTY, morse by keyboard in real time as you type
+* Decode and display PSK31, RTTY, morse text on screen
+* SWR meter
+
+To build from source:
+
+* Download cpp, h and ino files to a folder with a flat structure
+* Open ino in Arduino IDE
+* Install NimBLE-Arduino 2.5.2 library
+* Install ESP32 boards and choose M5Stack-Core2
+* Build and upload
+
+Credits to:
+Happankang https://github.com/nonoo/kappanhang/tree/main
+WfView https://wfview.org/
+
+for IC-705 protocol work and information
+
+Fldigi https://sourceforge.net/projects/fldigi/
+
+for PSK31 technical information
+
+Claude
+
+design and coding
