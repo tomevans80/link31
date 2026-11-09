@@ -12,6 +12,9 @@ Features:-
 * Decode and display PSK31, RTTY, morse text on screen
 * SWR meter
 
+Download flashable binary from Releases ->
+Or install with M5 Burner
+
 To build from source:
 
 * Download cpp, h and ino files to a folder with a flat structure
