@@ -23,6 +23,16 @@ To build from source:
 * Install ESP32 boards and choose M5Stack-Core2
 * Build and upload
 
+Setup once flashed:
+
+* Open the menu
+* Pair your BLE keyboard, if you are using one (this makes the rest of the setup easier and avoids touchscreen typing)
+* Enter Wifi SSID and  password
+* Enter the radio IP (found in the IC-705 menu WLAN  -> Connection settings)
+* Enter the radio login credentials (IC-705 menu WLAN  -> Remote Settings)
+* Connection tends to take a few attempts, as with other IC-705 apps. You might need to cycle wifi on/off.
+* Transmit needs to be armed in the M5's menu, if you wish to use it. Enable "Allow TX"
+  
 Credits to:
 Happankang https://github.com/nonoo/kappanhang/tree/main
 WfView https://wfview.org/
