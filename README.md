@@ -32,6 +32,16 @@ Setup once flashed:
 * Enter the radio login credentials (IC-705 menu WLAN  -> Remote Settings)
 * Connection tends to take a few attempts, as with other IC-705 apps. You might need to cycle wifi on/off.
 * Transmit needs to be armed in the M5's menu, if you wish to use it. Enable "Allow TX"
+
+Keyboard shortcuts:
+
+* Ctrl + M        Menu
+* Tab             Cycle modes
+* Ctrl+Tab        TX
+* Esc             Back/stop TX
+* Ctrl+T          Tuning tone
+* Up/down/enter   Menu navigate
+
   
 Credits to:
 Happankang https://github.com/nonoo/kappanhang/tree/main
