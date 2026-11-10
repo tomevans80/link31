@@ -1,7 +1,7 @@
 # Link31
 M5 Stack Core 2 firmware to link an IC-705 to a keyboard, so PSK31, RTTY, and morse can be sent, received, and decoded on the go.
 
-This firmware for an M5 Core 2 allows you to connect to the IC-705 over wifi, and use digital modes via a bluetooth BLE keyboard.
+This allows you to connect to the IC-705 over wifi, see decoded morse and decoded text on screen, and type text to send on a bluetooth BLE keyboard.
 
 It can also be used as a decoder for morse if you don't want to send.
 
