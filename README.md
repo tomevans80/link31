@@ -35,12 +35,12 @@ Setup once flashed:
 
 Keyboard shortcuts:
 
-* Ctrl + M        Menu
-* Tab             Cycle modes
-* Ctrl+Tab        TX
-* Esc             Back/stop TX
-* Ctrl+T          Tuning tone
-* Up/down/enter   Menu navigate
+* Ctrl + M        -  Menu
+* Tab             -  Cycle modes
+* Ctrl+Tab        -  TX
+* Esc             -  Back/stop TX
+* Ctrl+T          -  Tuning tone
+* Up/down/enter   -  Menu navigate
 
   
 Credits to:
